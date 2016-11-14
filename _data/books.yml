@@ -10,17 +10,23 @@
   link: https://lethlib.bibliocommons.com/item/show/573757040_good_omens
   why: Common Book Appeals - Adult books for young adults; Quirky; Fast-paced; Witty
   
+- title: The Shadow of the Wind
+  author: Carlos Ruiz Zafon
+  image: theshadowofthewind.jpg
+  link: https://lethlib.bibliocommons.com/item/show/242498040_the_shadow_of_the_wind
+  why: Common Book Appeals - Adult books for young adults; Literary fiction; Fast-paced; Books and reading; Eccentrics and eccentricities
+  
 - title: Ready Player One
   author: Ernest Cline
   image: readyplayerone.jpg
   link: https://lethlib.bibliocommons.com/item/show/986559040_ready_player_one
   why: Common Book Appeals - Adult books for young adults; Science fiction; Fast-paced; Offbeat; Geeks; Puzzles; Quests
 
-- title: The Shadow of the Wind
-  author: Carlos Ruiz Zafon
-  image: theshadowofthewind.jpg
-  link: https://lethlib.bibliocommons.com/item/show/242498040_the_shadow_of_the_wind
-  why: Common Book Appeals - Adult books for young adults; Literary fiction; Fast-paced; Books and reading; Eccentrics and eccentricities
+- title: PopCo
+  author: Scarlett Thomas
+  image: popco.jpg
+  link: http://www.chinookarch.ca/content/interlibrary-loan
+  why: Common Book Appeals - Fast-paced; Offbeat; Thought provoking; Witty; Codes; Corporations; Cryptography; Eccentrics and eccentricities
   
 - title: Codex
   author: Lev Grossman
@@ -39,4 +45,4 @@
   image: thewatchmakeroffiligreestreet.jpg
   link: https://lethlib.bibliocommons.com/item/show/1723272040_the_watchmaker_of_filigree_street
   why: Common Book Appeals - Adult books for young adults; Atmospheric
-  
+ 
