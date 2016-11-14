@@ -2,29 +2,71 @@
   author: David Benioff
   image: cityofthieves.jpg
   link: https://lethlib.bibliocommons.com/item/show/405486040_city_of_thieves
-  why: Common Book Appeals - Adult Books for Young Adults; Quests; Death
+  why: Common Book Appeals - Adult books for young adults; Quests; Death
 
-- title: The Revenant
-  author: Michael Punke
-  image: therevenant.jpg
-  link:
+- title: Good Omens
+  author: Neil Gaiman and Terry Pratchett
+  image: goodomens.jpg
+  link: https://lethlib.bibliocommons.com/item/show/573757040_good_omens
+  why: Common Book Appeals - Adult books for young adults; Quirky; Fast-paced; Witty
 
-- title: Wool
-  author: Hugh Howey
-  image: wool.jpg
-  link:
+- title: Ready Player One
+  author: Ernest Cline
+  image: readyplayerone.jpg
+  link: https://lethlib.bibliocommons.com/item/show/986559040_ready_player_one
+  why: Common Book Appeals - Adult books for young adults; Science fiction; Fast-paced; Offbeat; Geeks; Puzzles; Quests
 
-- title: The Martian
-  author: Andy Weir
-  image: themartian.jpg
-  link:
+- title: The Shadow of the Wind
+  author: Carlos Ruiz Zafón
+  image: theshadowofthewind.jpg
+  link: https://lethlib.bibliocommons.com/item/show/242498040_the_shadow_of_the_wind
+  why: Common Book Appeals - Adult books for young adults; Literary fiction; Fast-paced; Books and reading; Eccentrics and eccentricities
 
-- title: The Man in the High Castle
-  author: Philip K Dick
-  image: themaninthehighcastle.jpg
-  link:
+- title: Codex
+  author: Lev Grossman
+  image: codex.jpg
+  link: https://lethlib.bibliocommons.com/item/show/386926040_codex
+  why: Common Book Appeals - Book collecting; Rare books
 
-- title: Deception Point
-  author: Dan Brown
-  image: deceptionpoint.jpg
-  link:
+- title: The Night Circus
+  author: Erin Morgenstern
+  image: nightcircus.jpg
+  link: https://lethlib.bibliocommons.com/item/show/973170040_the_night_circus
+  why: Common Book Appeals - Adult books for young adults
+
+- title: The Watchmaker of Filigree Street
+  author: Natasha Pulley
+  image: thewatchmakeroffiligreestreet.jpg
+  link: https://lethlib.bibliocommons.com/item/show/1723272040_the_watchmaker_of_filigree_street
+  why: Common Book Appeals - Adult books for young adults; Atmospheric
+  
+- title: The Map of Time
+  author: Félix J. Palma
+  image: themapoftime.jpg
+  link: https://lethlib.bibliocommons.com/item/show/903342040_the_map_of_time
+  why: Common Book Appeals - Atmospheric; Offbeat; Time travel; Space and time
+  
+- title: Crooked Heart
+  author: Lissa Evans
+  image: crookedheart.jpg
+  link: https://lethlib.bibliocommons.com/item/show/1640958040_crooked_heart
+  why: Common Book Appeals - Literary fiction; Quirky; Atmospheric
+
+- title: The Eyre Affair
+  author: Jasper Fforde
+  image: theeyreaffair.jpg
+  link: https://lethlib.bibliocommons.com/item/show/199878040_the_eyre_affair
+  why: Common Book Appeals - Adult books for young adults; Likeable; Fast-paced; Witty; Time travel
+  
+- title: The Hitchhiker's Guide to the Galaxy
+  author: Douglas Adams
+  image: hitchhiker.jpg
+  link: https://lethlib.bibliocommons.com/item/show/74703040_the_hitchhikers_guide_to_the_galaxy
+  why: Common Book Appeals - Adult books for young adults; Science fiction; Quirky; Offbeat; Witty
+  
+ - title: The Invisible Library
+  author: Genevieve Cogman
+  image: theinvisiblelibrary.jpg
+  link: https://lethlib.bibliocommons.com/item/show/2012339040_the_invisible_library
+  why: Common Book Appeals - Likeable; Interdimensional travel; Secret societies
+  
